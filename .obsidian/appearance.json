@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "MCL Gallery Cards",
+    "MCL Multi Column",
+    "MCL Wide Views",
+    "gradient_custom_callouts",
+    "Centering Images"
+  ],
+  "baseFontSize": 14
+}
